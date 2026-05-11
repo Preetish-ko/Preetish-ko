@@ -10,8 +10,6 @@ On the software side, I do Systems Programming, and Full Stack development
 
 On the hardware side, Embedded systems, Firmware development, and integration with software
 
-Projects coming soon
-
 I try to make my projects as easy as possible to understand so the average person can follow along, learn theory and apply it.
 
 ### Fun Facts:
